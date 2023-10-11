@@ -25,7 +25,7 @@ Neste projeto, você aprenderá a:
 O repositório contém os seguintes arquivos:
 
 - `.gitattributes`: Arquivo de configuração do Git.
-- `Departments.db`: Banco de dados SQLite onde os dados são armazenados.
+- `CompanyDepartments.db`: Banco de dados SQLite onde os dados são armazenados.
 - `README.md`: Este arquivo de documentação.
 - `database_manager.py`: Código Python que implementa a criação do banco de dados, importação dos dados do arquivo CSV e execução de consultas.
 - `Departments.csv`: Arquivo CSV que contém os dados a serem importados.
